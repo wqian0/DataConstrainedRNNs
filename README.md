@@ -6,7 +6,9 @@ in data-constrained models of neural dynamics", Neurips 2024 (https://www.biorxi
 This code makes use of or directly contains code attributable to the following public repositories:
 
 https://github.com/lindermanlab/ssm
+
 https://github.com/rajanlab/CURBD
+
 https://github.com/schnitzer-lab/CORNN-public
 
 `ssm` must be first installed using the installation guide provided in the repository link. Relevant code snippets from the other two repositories have already been included. 
