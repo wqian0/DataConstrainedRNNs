@@ -1,7 +1,7 @@
 # DataConstrainedRNNs
 
-Code for "Partial observation can induce mechanistic mismatches
-in data-constrained models of neural dynamics", Neurips 2024 (https://www.biorxiv.org/content/10.1101/2024.05.24.595741v1).
+Code for ["Partial observation can induce mechanistic mismatches
+in data-constrained models of neural dynamics"](https://www.biorxiv.org/content/10.1101/2024.05.24.595741v1)), Neurips 2024.
 
 This code makes use of or directly contains code attributable to the following public repositories:
 
